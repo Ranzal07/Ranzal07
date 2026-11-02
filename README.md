@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lavranztradio@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1BQ4cxcn4tWJFJzk_psqObaBrv1vRM-k2/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BQ4cxcn4tWJFJzk_psqObaBrv1vRM-k2/view?usp=sharing](https://lavranz-web-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
