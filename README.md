@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavranz</h1>
-<h3 align="center">A Computer Science graduate awarded as Cum Laude!</h3>
+<h3 align="center">A Full-Stack Developer!</h3>
 
 - 📫 How to reach me **lavranztradio@gmail.com**
 
